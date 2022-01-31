@@ -1,9 +1,12 @@
 ## Welcome to the Github portfolio page of Rogier Hetem 
 
 ### Project 1: Where to bet?
+Where do you get the best odds if you would like to bet on your favourite boxing match? <br>
+In this webscraping project I compared the betting odds from four websites. Specifically on boxing events. <br>
 
+Main packages used: bs4, selenium, pandas and numpy. <br>
 
-## Welcome to GitHub Pages
+### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Roggebroodje/Portfolio_Rogier_Hetem/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
