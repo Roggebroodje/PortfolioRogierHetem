@@ -1,8 +1,8 @@
-## Welcome to Rogier Hetem's portfolio
+### Welcome to Rogier Hetem's portfolio
 
-### Project 1: Where to bet?
-Where do you get the best odds if you would like to bet on your favourite boxing match? <br>
-In this webscraping project I compared the betting odds from four websites. Specifically on boxing events. <br>
+## Project 1: Where to bet?
+### Where do you get the best odds if you would like to bet on your favourite boxing match? <br>
+In this webscraping project I compared the betting odds from four websites. I specifically looked at boxing events. <br>
 
 Main packages used: bs4, selenium, pandas and numpy. <br>
 
