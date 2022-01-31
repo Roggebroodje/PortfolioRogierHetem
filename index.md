@@ -1,5 +1,5 @@
-## Project 1:
-### Where to bet?
+## Project 1: Where to bet?
+
 
 ## Welcome to GitHub Pages
 
