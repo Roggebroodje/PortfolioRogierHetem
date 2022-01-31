@@ -1,4 +1,4 @@
-## Welcome to the portfolio page of Rogier Hetem 
+## Welcome to the portfolio of Rogier Hetem 
 
 ### Project 1: Where to bet?
 Where do you get the best odds if you would like to bet on your favourite boxing match? <br>
