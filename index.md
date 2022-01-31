@@ -16,4 +16,4 @@ The main packages I used were: bs4, selenium and pandas. I used the following fo
  | 2/19/22 |  Kell Brook  |   Amir Khan | 1.6 | jacks | 2.38 | wallace | 
  | 2/26/22 |  Josh Taylor  |   Jack Catterall | 1.11 | bwin | 8.5 | jacks | 
 
-<sup> last update: 01/31/2022 19:04 <sub>
+<sup> last update: 01/31/2022 19:09 <sub>
