@@ -1,8 +1,10 @@
 ## Welcome to Rogier Hetem's portfolio
 
-## [Project 1: On which webiste should you bet?](https://github.com/Roggebroodje/betting_on_boxing_matches)
-#### Where do you get the highest odds on your favourite boxing match? <br>
-In this [webscraping project](https://github.com/Roggebroodje/betting_on_boxing_matches) I compared the betting odds from four different betting websites. I specifically looked at boxing events. I used selenium and bs4 to scrape the desired information from the different websites. Using selfmade functions I paired the corresponding boxing events from the different websites. Then comparing the different odds and selecting the highest per boxing event, per outcome ('boxer 1' wins or 'boxer 2' wins). A table is returned displaying all the upcoming boxing events with the highest odds for that event joined with their respected website. See below for the first 5 rows of this outcome table. <br> 
+## [Project 1: Finding our best odds](https://github.com/Roggebroodje/betting_on_boxing_matches)
+#### Let’s find the best betting odds for every upcoming boxing match. 
+Many betting websites offer the thrill to bet on your favourite boxer, claiming they provide the best betting odds. But only one can be the best. This [web scraping project](https://github.com/Roggebroodje/betting_on_boxing_matches) collects betting information about boxing matches, from 4 major websites. It joins corresponding matches, compares the betting odds and selects the highest odds per match. Returning this information in a simple and neat table. So that you know where you should place your next bet.
+
+I used selenium and bs4 to scrape the desired information from the different websites. Using selfmade functions I paired the corresponding boxing events from the different websites. Then comparing the different odds and selecting the highest per boxing event, per outcome ('boxer 1' wins or 'boxer 2' wins). A table is returned displaying all the upcoming boxing events with the highest odds for that event joined with their respected website. See below for the first 5 rows of this outcome table. <br> 
 
 The main packages I used were: bs4, selenium and pandas. I used the following four websites: [www.bwin.com](www.bwin.com), [www.jacks.nl](www.jacks.nl), [www.bet365.nl](www.bet365.nl) and [www.wallacebet.com](www.wallacebet.com). <br>
 
