@@ -1,6 +1,6 @@
 ## Welcome to Rogier Hetem's portfolio
 
-## [Project 1: Which webiste to bet?](https://github.com/Roggebroodje/betting_on_boxing_matches)
+## [Project 1: On which webiste should you bet?](https://github.com/Roggebroodje/betting_on_boxing_matches)
 #### Where do you get the highest odds on your favourite boxing match? <br>
 In this [webscraping project](https://github.com/Roggebroodje/betting_on_boxing_matches) I compared the betting odds from four different betting websites. I specifically looked at boxing events. I used selenium and bs4 to scrape the desired information from the different websites. Using selfmade functions I paired the corresponding boxing events from the different websites. Then comparing the different odds and selecting the highest per boxing event, per outcome ('boxer 1' wins or 'boxer 2' wins). A table is returned displaying all the upcoming boxing events with the highest odds for that event joined with their respected website. See below for the first 5 rows of this outcome table. <br> 
 
