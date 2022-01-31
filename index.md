@@ -7,6 +7,7 @@ In this [webscraping project](https://github.com/Roggebroodje/betting_on_boxing_
 The main packages I used were: bs4, selenium and pandas. I used the following four websites: [www.bwin.com](www.bwin.com), [www.jacks.nl](www.jacks.nl), [www.bet365.nl](www.bet365.nl) and [www.wallacebet.com](www.wallacebet.com). <br>
 
 #### First 5 rows from the outcome table:
+
  | Date | Boxer 1 | Boxer 2 | Best odds boxer 1 | Odds 1 at | Best odds boxer 2 | Odds 2 at | 
  | ------ | ------ | ------ | ------ | ------ | ------ | ------ | 
  | 2/5/22 |  Chris Eubank Jnr  |   Liam Williams | 1.35 | jacks | 3.5 | bwin | 
