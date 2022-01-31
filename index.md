@@ -2,7 +2,7 @@
 
 ## Project 1: Where to bet?
 #### Where do you get the best odds if you would like to bet on your favourite boxing match? <br>
-In this webscraping project I compared the betting odds from four different websites. I specifically looked at boxing events. I used selenium and bs4 to scrape the desired information from the different websites. Using three selfmade functions I paired the corresponding boxing events from the different websites. Then comparing the different odds and returning a data frame   <br>
+In this webscraping project I compared the betting odds from four different betting websites. I specifically looked at boxing events. I used selenium and bs4 to scrape the desired information from the different websites. Using selfmade functions I paired the corresponding boxing events from the different websites. Then comparing the different odds and returning a table displaying all the upcoming boxing events with their best odds and on which website you can find these odds.  <br>
 
 The main packages I used were: bs4, selenium and pandas. <br>
 
