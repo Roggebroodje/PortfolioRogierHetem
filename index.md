@@ -1,7 +1,7 @@
 ## Welcome to Rogier Hetem's portfolio
 
 ## [Project 1: Which webiste to bet?](https://github.com/Roggebroodje/betting_on_boxing_matches)
-#### Where do you get the highest odds for your favourite boxing match? <br>
+#### Where do you get the highest odds on your favourite boxing match? <br>
 In this [webscraping project](https://github.com/Roggebroodje/betting_on_boxing_matches) I compared the betting odds from four different betting websites. I specifically looked at boxing events. I used selenium and bs4 to scrape the desired information from the different websites. Using selfmade functions I paired the corresponding boxing events from the different websites. Then comparing the different odds and selecting the highest per boxing event, per outcome ('boxer 1' wins or 'boxer 2' wins). A table is returned displaying all the upcoming boxing events, the highest odds per event with their respected website. See below for the first 5 rows of this outcome table. <br> 
 
 The main packages I used were: bs4, selenium and pandas. I used the following four websites: [www.bwin.com](www.bwin.com), [www.jacks.nl](www.jacks.nl), [www.bet365.nl](www.bet365.nl) and [www.wallacebet.com](www.wallacebet.com). <br>
