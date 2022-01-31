@@ -1,4 +1,6 @@
-## Project 1: Where to bet?
+## Welcome to the Github portfolio page of Rogier Hetem 
+
+### Project 1: Where to bet?
 
 
 ## Welcome to GitHub Pages
