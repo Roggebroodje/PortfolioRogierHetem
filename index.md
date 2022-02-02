@@ -16,4 +16,4 @@ All of this is done using the _Python_ programming language and some of its powe
  | 2/19/22 |  Kell Brook  |   Amir Khan | 1.6 | jacks.nl | 2.38 | wallacebet.com | 
  | 2/26/22 |  Josh Taylor  |   Jack Catterall | 1.11 | bwin.com | 8.5 | jacks.nl | 
 
-<sup> last update: 2-feb.-2022 22:49 <sub>
+<sup> last update: 2 february 2022, 22:59 <sub>
