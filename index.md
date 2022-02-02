@@ -2,7 +2,7 @@
 
 ## [Project 1: Finding our best odds](https://github.com/Roggebroodje/betting_on_boxing_matches)
 #### Let’s find the best betting odds for every upcoming boxing match
-Many betting websites offer the thrill to bet on your favourite boxer, claiming they provide the best betting odds. But only one can be the best. This [web scraping project](https://github.com/Roggebroodje/betting_on_boxing_matches) collects betting information about upcoming boxing matches, from 4 major websites. It joins corresponding matches, compares the betting odds and selects the highest odds per match. Finally returning all this information in a simplthe upcoming nd neat table. So that you know where you should place your next bet.
+Many betting websites offer the thrill to bet on your favourite boxer, claiming they provide the best betting odds. But only one can be the best. This [web scraping project](https://github.com/Roggebroodje/betting_on_boxing_matches) collects betting information about upcoming boxing matches, from 4 major websites. It joins corresponding matches, compares the betting odds and selects the highest odds per match. Finally returning all this information in a simple and neat table. So that you know where you should place your next bet.
 
 All of this is done using the _Python_ programming language and some of its powerful packages, such as BeautifulSoup4, Selenium, Pandas and a few others. You can find the code on my github page by clicking the project link above. 
 
