@@ -4,7 +4,7 @@
 #### Let’s find the best betting odds for every upcoming boxing match
 Many betting websites offer the thrill to bet on your favourite boxer, claiming they provide the best betting odds. But only one can be the best. This [web scraping project](https://github.com/Roggebroodje/betting_on_boxing_matches) collects betting information about upcoming boxing matches, from 4 major websites. It joins corresponding matches, compares the betting odds and selects the highest odds per match. Finally returning all this information in a simple and neat table. So that you know where you should place your next bet.
 
-All of this is done using the _Python_ programming language and some of its powerful packages, such as BeautifulSoup4, Selenium, Pandas and a few others. You can find the code on my github page by clicking the project link above. 
+All of this is done using the _Python_ programming language and some of its powerful packages, such as BeautifulSoup4, Selenium, Pandas and a few others. You can find the code on my github page by clicking the [project link]((https://github.com/Roggebroodje/betting_on_boxing_matches). 
 
 #### First 5 rows from the outcome table:
  
@@ -16,4 +16,4 @@ All of this is done using the _Python_ programming language and some of its powe
  | 2/19/22 |  Kell Brook  |   Amir Khan | 1.6 | jacks.nl | 2.38 | wallacebet.com | 
  | 2/26/22 |  Josh Taylor  |   Jack Catterall | 1.11 | bwin.com | 8.5 | jacks.nl | 
 
-<sup> last update: 01/02/2022 13:50 <sub>
+<sup> last update: 2-feb.-2022 22:49 <sub>
