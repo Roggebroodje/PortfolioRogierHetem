@@ -10,10 +10,12 @@ All of this is done using the _Python_ programming language and some of its powe
  
  | Date | Boxer 1 | Boxer 2 | Best odds boxer 1 | Odds 1 at | Best odds boxer 2 | Odds 2 at | 
  | ------ | ------ | ------ | ------ | ------ | ------ | ------ | 
- | 2/5/22 |  Chris Eubank Jnr  |   Liam Williams | 1.35 | jacks.nl | 3.5 | bwin.com | 
- | 2/6/22 |  Keith Thurman  |   Mario Barrios | 1.57 | bwin.com | 2.4 | bwin.com | 
- | 2/12/22 |  Daniel Jacobs  |   John Ryder | 1.57 | bwin.com | 2.6 | jacks.nl | 
- | 2/19/22 |  Kell Brook  |   Amir Khan | 1.6 | jacks.nl | 2.38 | wallacebet.com | 
- | 2/26/22 |  Josh Taylor  |   Jack Catterall | 1.11 | bwin.com | 8.5 | jacks.nl | 
+ | Tomorrow |  Otto Wallin  |   Kamil Sokolowski | 1.04 | bwin.com | 12.0 | bet365.com | 
+ | Tomorrow |  Samuel Antwi  |   Conah Walker | 1.25 | bwin.com | 4.4 | wallacebet.com | 
+ | Tomorrow |  Chris Jenkins  |   Julius Indongo | 1.44 | bwin.com | 3.0 | bwin.com | 
+ | Tomorrow |  Claressa Shields  |   Ema Kozin | 1.04 | bwin.com | 12.0 | bet365.com | 
+ | Tomorrow |  Chris Eubank Jnr  |   Liam Williams | 1.33 | bwin.com | 3.5 | bwin.com | 
 
-<sup> last update: 2 february 2022, 22:59 <sub>
+<sup> last update: 4 february 2022, 09:04 <sub>
+ 
+My project goal was to learn about web scraping. Web scraping is a very powerful tool for a data analyst. Acquiring this skill taught me how create my own datasets using the web. This can be used in a variety of settings. So I know this skill will absolutely come in handy in my data journey.
