@@ -18,4 +18,4 @@ All of this is done using the _Python_ programming language and some of its powe
 
 <sup> last update: 6 february 2022, 09:04 <sub>
  
-My project goal was to learn about web scraping. Web scraping is a very powerful tool for a data analyst. Acquiring this skill taught me how create my own datasets using the web. This can be used in a variety of settings. So I know this skill will absolutely come in handy in my data journey.
+My project goal was to learn about web scraping. Web scraping is a very powerful tool for a data analyst. Acquiring this skill taught me how create my own datasets using the web. This can be used in a variety of settings. Very useful in my data journey. 
