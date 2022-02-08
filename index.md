@@ -7,15 +7,15 @@ Many betting websites offer the thrill to bet on your favourite boxer, claiming 
 All of this is done using the _Python_ programming language and some of its powerful packages, such as BeautifulSoup4, Selenium, Pandas and a few others. You can find the code on my github page by clicking the [project link](https://github.com/Roggebroodje/betting_on_boxing_matches). 
 
 #### First 5 rows from the outcome table:
- 
+
  | Date | Boxer 1 | Boxer 2 | Best odds boxer 1 | Odds 1 at | Best odds boxer 2 | Odds 2 at | 
  | ------ | ------ | ------ | ------ | ------ | ------ | ------ | 
- | 2/12/22 |  Daniel Jacobs  |   John Ryder | 1.63 | wallacebet.com | 2.5 | bwin.com | 
- | 2/19/22 |  Kell Brook  |   Amir Khan | 1.6 | jacks.nl | 2.42 | wallacebet.com | 
+ | 2/12/22 |  Daniel Jacobs  |   John Ryder | 1.62 | wallacebet.com | 2.5 | bwin.com | 
+ | 2/19/22 |  Kell Brook  |   Amir Khan | 1.6 | jacks.nl | 2.4 | wallacebet.com | 
  | 2/26/22 |  Josh Taylor  |   Jack Catterall | 1.11 | bwin.com | 8.5 | jacks.nl | 
  | 2/27/22 |  Lawrence Okolie  |   Michal Cieslak | 1.12 | bwin.com | 6.5 | jacks.nl | 
  | 3/12/22 |  Michael Conlan  |   Leigh Wood | 1.62 | bwin.com | 2.4 | jacks.nl | 
 
-<sup> last update: 6 february 2022, 09:04 <sub>
+<sup> last update: 8 february 2022, 15:38 <sub>
  
 My project goal was to learn about web scraping. Web scraping is a very powerful tool for a data analyst. Acquiring this skill taught me how create my own datasets using the web. This can be used in a variety of settings. Very useful in my data journey. 
