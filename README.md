@@ -1,2 +1,2 @@
-# portfolio_rogier_hetem
+# portfoliorogierhetem
 An overview of my recent data analysis and programming projects
