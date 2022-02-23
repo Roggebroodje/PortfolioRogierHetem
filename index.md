@@ -10,12 +10,12 @@ All of this is done using the _Python_ programming language and some of its powe
 
  | Date | Boxer 1 | Boxer 2 | Best odds boxer 1 | Odds 1 at | Best odds boxer 2 | Odds 2 at | 
  | ------ | ------ | ------ | ------ | ------ | ------ | ------ | 
- | 2/19/22 |  Abdul Khan  |   Ricky Starkey | 1.01 | bwin.com | 17.0 | bwin.com | 
- | 2/19/22 |  Adam Azim  |   Jordan Ellison | 1.01 | bwin.com | 17.0 | bwin.com | 
- | 2/19/22 |  Bradley Rea  |   Craig McCarthy | 1.08 | bwin.com | 9.1 | wallacebet.com | 
- | 2/19/22 |  Hassan Azim  |   MJ Hall | 1.01 | bwin.com | 17.0 | bwin.com | 
- | 2/19/22 |  Ibrahim Nadim  |   Taka Bambere | 1.03 | wallacebet.com | 15.0 | bwin.com | 
+ | 2/26/22 |  Cori Gibbs  |   Carlos Perez | 1.06 | bwin.com | 10.0 | jacks.nl | 
+ | 2/26/22 |  Nick Campbell  |   Jay McFarlane | 1.062 | bet365.com | 9.5 | jacks.nl | 
+ | 2/26/22 |  Robeisy Ramirez Carrazana  |   Eric Donovan | 1.06 | bwin.com | 10.5 | jacks.nl | 
+ | 2/26/22 |  Josh Taylor  |   Jack Catterall | 1.08 | bwin.com | 10.0 | bet365.com | 
+ | 2/27/22 |  Gary Antuanne Russell  |   Viktor Postol | 1.2 | bwin.com | 6.0 | jacks.nl |
 
-<sup> last update: 16 february 2022, 05:58 <sub>
+<sup> last update: 23 february 2022, 20:42 <sub>
  
 My project goal was to learn about web scraping. Web scraping is a very powerful tool for a data analyst. Acquiring this skill taught me how create my own datasets using the web. This can be used in a variety of settings. Very useful in my data journey. 
